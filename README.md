@@ -43,7 +43,7 @@ Parameters
 
 ```bash
 key - user unique key. Required. Example Values: f096565d34554f66963125f37fb899d9eb430b8f
-image - user's image. Required. Type: file. Available only .jpg, .png, .gif
+image - user`s image. Required. Type: file. Available only .jpg, .png, .gif
 width - new width parameter. Optional. Default: original image width. Example Values: 100
 height - new height parameter. Optional. Default: original image height. Example Values: 100
 ```
