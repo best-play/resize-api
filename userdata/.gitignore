@@ -1,0 +1,5 @@
+# Ignore everything in this directory
+*
+!upload
+# Except this file
+!.gitignore
