@@ -109,7 +109,7 @@ class Project
       ];
     }
 
-    file_put_contents($this->_key_dir . $token, serialize(json_encode([])));
+    file_put_contents($this->_key_dir . $token, serialize([]));
 
     return [
         "success" => true,
